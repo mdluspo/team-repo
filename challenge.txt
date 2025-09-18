@@ -1,13 +1,9 @@
-<<<<<<< HEAD
 "Hi from shynaganda" 
-=======
 hello from mdluspo
 hello from christian
->>>>>>> 1bc0dbeffb9e7f781ec41575e4abac5bd75ec594
 "Hi from shynaganda" 
 Hello from Christian again
 Hello from Christian agains
-
 
 ako ay totoo
 totoo2
