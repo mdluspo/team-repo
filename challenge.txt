@@ -7,6 +7,9 @@ Hello from Christian agains
 
 ako ay totoo
 totoo2
+HEAD
 eto ay legit na totoo
 
 merge conflict resolved
+"NewBranch test" 
+
